@@ -1,7 +1,9 @@
 # ISDC-Self-Driving-Car-Simulation
 
 Udacity Intro to Self-Driving Car Nanodegree Project : Joy Ride 
---
+
+---
+
 ## Joy Ride - Project Overview
 This is a quick project that gives you a chance to write code that controls a simulated car. This project has three parts (but you will only submit part three).
 
