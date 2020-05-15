@@ -1,6 +1,6 @@
 # ISDC-Self-Driving-Car-Simulation
 
-Udacity Intro to Self-Driving Car Nanodegree Project : Joy Ride 
+Udacity - Intro to Self-Driving Car Nanodegree Project : Joy Ride 
 
 ---
 
