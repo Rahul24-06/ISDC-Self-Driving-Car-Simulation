@@ -17,7 +17,7 @@ This is a quick project that gives you a chance to write code that controls a si
 
 *Share this video if you like.*
 
-*Blog - https://rahulthelonelyprogrammer.blogspot.in/*
+*Blog - https://rahulthelonelyprogrammer.blogspot.com/*
 
 *Github - https://github.com/Rahul24-06*
 
